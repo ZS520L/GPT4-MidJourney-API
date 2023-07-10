@@ -1,0 +1,22 @@
+使用教程：
+https://www.bilibili.com/video/BV1ys4y167w9/?spm_id_from=333.999.0.0
+https://www.bilibili.com/video/BV1SP411C7TQ/?spm_id_from=333.999.0.0
+https://www.bilibili.com/video/BV1dh4y177uY/?spm_id_from=333.999.0.0
+接口和模型对应关系：
+"",
+"gpt-3.5-turbo",
+"gpt-3.5-turbo-16k",
+"gpt-4",
+"gpt-4-0314",
+"claude-instant-100k",
+"claude-instant",
+http://127.0.0.1:5000/gpt-3.5-turbo            gpt-3.5-turbo
+http://127.0.0.1:5000/gpt-3.5-turbo-16k        gpt-3.5-turbo-16k
+http://127.0.0.1:5000/gpt-4                    gpt-4
+http://127.0.0.1:5000/gpt-4-0314               gpt-4-0314
+http://127.0.0.1:5000/claude-instant-100k      claude-instant-100k
+http://127.0.0.1:5000/claude-instant           claude-instant
+注意事项：
+软件运行后最小化即可，关闭后无法正常使用
+理论上无需魔法，无法正常使用请检查配置及自身网络
+有问题先看视频，多看视频，不要着急！
